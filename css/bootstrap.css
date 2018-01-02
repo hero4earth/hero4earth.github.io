@@ -10,19 +10,19 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
-body {
+/* body {
   margin: 0;
-}
+} */
 article,
 aside,
 details,
 figcaption,
 figure,
 footer,
-header,
+/* header, */
 hgroup,
 main,
-nav,
+/* nav, */
 section,
 summary {
   display: block;
