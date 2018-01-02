@@ -101,7 +101,7 @@ pre code.hljs {
 */
 .navigation {
 	box-shadow: 0 2px $highlight-color;
-	padding: 0 1em;
+	padding: 0em 0em;
 	margin: 0;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
@@ -125,13 +125,13 @@ pre code.hljs {
   }
   .logo {
     float: left;
-    height: 4em;
+    height: 3em;
     @include media ($tablet) {
     	padding-left: $em-base;
     }
     img {
-      max-height: 2.5em;
-      margin-top: 0.75em;
+      max-height: 3em;
+      margin-top: 0.5em;
       padding-right: 1em;
     }
     span {
