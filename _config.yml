@@ -28,7 +28,7 @@ permalink: pretty
 # my website
 websites:
   - name: About
-    url: http://hero4earth.com/about
+    url: http://hero4earth.com/blog/about/
   - name: CV
     url: http://hero4earth.com/cv
   - name: Tech Blog
