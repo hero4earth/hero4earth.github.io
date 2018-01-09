@@ -31,9 +31,9 @@ websites:
     url: http://hero4earth.com/blog/about/
   - name: CV
     url: http://hero4earth.com/cv
-  - name: Tech Blog
+  - name: Tech
     url: http://hero4earth.com/blog
-  - name: Story Blog
+  - name: Story
     url: https://brunch.co.kr/@hero4earth
 
 # ----------------------- #
@@ -89,7 +89,7 @@ social:
     username: eddy.sangwon
     url: https://www.instagram.com/eddy.sangwon
     desc: Follow me on Instagram
-    share: true
+    share: false
 
   - name: Pinterest
     icon: pinterest
