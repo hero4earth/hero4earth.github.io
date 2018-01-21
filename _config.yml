@@ -29,6 +29,8 @@ permalink: pretty
 websites:
   - name: About
     url: http://hero4earth.com/blog/about/
+  - name: Projects
+    url: http://hero4earth.com/blog/category/projects
   - name: CV
     url: http://hero4earth.com/cv
   - name: Tech
