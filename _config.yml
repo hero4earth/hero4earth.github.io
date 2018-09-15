@@ -4,8 +4,8 @@ plugins:
 #      Main Configs       #
 # ----------------------- #
 
-title: 사회 혁신을 위한 인간 중심의 데이터 비즈니스 기획자
-subtitle: Human-Centered Data Business Designer for Social Innovation
+title: 사회 혁신을 위한 데이터 중심의 서비스 기획자
+subtitle: Data-Driven Service Designer for Social Innovation
 email: eddy.sangwon@gmail.com
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo_blue.png"
@@ -13,7 +13,7 @@ permalink: pretty
 url: http://hero4earth.com
 name: hero4earth
 description: > # "Write an awesome description for your new site here.
-  보다 나은 세상을 만들기 위한 인간 중심의 데이터 비즈니스 기획자가 되고 싶습니다. 데이터 분석, 머신 러닝, AI, UX, HCI, 디자인씽킹 등을 공부하고 공유하고 있습니다.
+  보다 나은 세상을 만들기 위한 데이터 중심의 서비스 기획자가 되고 싶습니다. 데이터 분석, 머신 러닝, AI, UX, HCI, 디자인씽킹 등을 공부하고 공유하고 있습니다.
 copyright: 'Copyright &copy; 2018 hero4earth. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
