@@ -13,8 +13,8 @@ permalink: pretty
 url: http://hero4earth.com
 name: hero4earth
 description: > # "Write an awesome description for your new site here.
-  보다 나은 세상을 만들기 위한 데이터 중심의 서비스 기획자가 되고 싶습니다. 데이터 분석, 머신 러닝, AI, UX, HCI, 디자인씽킹 등을 공부하고 공유하고 있습니다.
-copyright: 'Copyright &copy; 2018 hero4earth. All Rights Reserved.'
+  더 나은 세상을 위한 데이터 중심의 서비스 기획가를 꿈꿉니다. 데이터 분석, 그로스해킹, 머신러닝, UX, 디자인씽킹, 애자일, 스타트업, 비즈니스, IT기술에 관심이 많습니다.
+copyright: 'Copyright &copy; 2019 hero4earth. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -43,8 +43,6 @@ websites:
 # ----------------------- #
 
 bestsocials:
-  - title: facebook
-    url: http://www.facebook.com/eddy.sangwon
   - title: github
     url: https://github.com/hero4earth
   - title: linkedin
@@ -56,7 +54,7 @@ social:
     username: Sangwon Kim
     url: http://www.facebook.com/eddy.sangwon
     desc: Friend me on Facebook
-    share: true
+    share: False
 
   - name: GitHub
     icon: github
